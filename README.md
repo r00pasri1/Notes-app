@@ -108,12 +108,15 @@ Example:
 env
 Copy code
 MONGO_URI=mongodb+srv://<your_mongodb_username>:<your_mongodb_password>@cluster0.mongodb.net/notesdb?retryWrites=true&w=majority
+
 5. Frontend and Backend Interaction
 Once both frontend and backend are set up and running, they should communicate as follows:
 
 Login: The frontend will send login credentials to the backend.
 JWT Token: Upon successful login, the backend will return a JWT token, which the frontend will store in localStorage.
 Secure Routes: All subsequent API requests to the backend will include the JWT token in the Authorization header to verify the user's identity.
+
+
 6. Testing the Application
 Create Note: Once logged in, you should be able to create a note.
 View Notes: All notes will be displayed in a list view.
