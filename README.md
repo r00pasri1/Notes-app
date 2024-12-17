@@ -117,6 +117,7 @@ You can deploy the frontend using services like Vercel or Netlify.
 
 
 
+
 7.2. Backend Deployment
 For the backend, you can use services like Heroku or Render.
 
