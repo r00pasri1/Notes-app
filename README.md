@@ -26,14 +26,13 @@ This is a full-stack Notes Application built using React for the frontend, Node.
 - Flask
 - JWT (for authentication)
 
-  
-## Output 
-###![WhatsApp Image 2024-12-17 at![W!![WhatsApp Image 2024-12-17 at 5 54 37 PM](https://github.com/user-attachments/assets/23282cf7-0063-4e45-928f-7df806d46261)
-[WhatsApp Image 2024-12-17 at 6 01 15 PM](https://github.com/user-attachments/assets/47d708fc-983b-43fc-8b8e-1e19ebd1e693)
-hatsApp Image 2024-12-17 at 6 01 15 PM (1)](https://github.com/user-attachments/assets/1ad14766-051a-4abe-85d0-f43a7e53bd03)
- 5 57 02 PM![WhatsApp Image 2024-12-17 at 6 01 15 PM (2)](https://github.com/user-attachments/assets/c4f547a4-f632-4850-bfba-fd97d339f7f0)
-](https://github.com/user-attachments/assets/d88451d3-ab77-434b-89fe-1f746a3bf36e)
+## Outputs: 
 
+![WhatsApp Image 2024-12-17 at 5 57 02 PM](https://github.com/user-attachments/assets/106d4c8c-53cb-4da8-9830-7117b3b883ba)
+![WhatsApp Image 2024-12-17 at 6 01 15 PM (2)](https://github.com/user-attachments/assets/1da621ef-2697-4ae6-b660-f9ab33db44a0)
+![WhatsApp Image 2024-12-17 at 6 01 15 PM (1)](https://github.com/user-attachments/assets/6b96f044-f6e5-474c-a013-4a97e78e5c76)
+![WhatsApp Image 2024-12-17 at 6 01 15 PM](https://github.com/user-attachments/assets/729abd78-55d1-469f-b5be-b9f41aaea919)
+![WhatsApp Image 2024-12-17 at 5 54 37 PM](https://github.com/user-attachments/assets/04655417-5569-4472-bb4b-f83343c51fa4)
 
 
 
@@ -129,7 +128,6 @@ You can deploy the frontend using services like Vercel or Netlify.
 
 
 
-7.2. Backend Deployment
+## Backend Deployment
 For the backend, you can use services like Heroku or Render.
-
 Once deployed, make sure to update the frontend's API URL to the deployed backend URL.
