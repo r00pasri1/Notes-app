@@ -1,4 +1,4 @@
-# mern-notes-app
+# flask and react-notes-app
  
 # Notes App (Frontend and Backend)
 
