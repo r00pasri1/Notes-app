@@ -5,12 +5,10 @@
 This is a full-stack Notes Application built using React for the frontend, Node.js and Express for the backend, and MongoDB as the database. The application allows users to create, read, update, delete, and search notes. The backend is secured with JWT authentication.
 
 ## Features
-- Display a list of all notes.
 - Create new notes.
 - Edit existing notes.
-- Delete notes with confirmation.
+- Delete notes.
 - Search notes by title.
-- Pagination of notes.
 - User authentication (login, logout).
 - Secure API with JWT authentication.
 
@@ -18,13 +16,14 @@ This is a full-stack Notes Application built using React for the frontend, Node.
 
 ### Frontend
 - React
-- Tailwind CSS (for styling)
+-  CSS (for styling)
 - Axios (for making HTTP requests)
 
 ### Backend
 - Node.js
 - Express
 - MongoDB
+- Flask
 - JWT (for authentication)
 
 ## Setup and Installation
